@@ -1,4 +1,4 @@
-# Duplication File Finder Application
+
 ![istockphoto-1132086617-612x612](https://github.com/user-attachments/assets/28c9f2ba-c9f7-4f64-b121-73b0933e35ae)
 ## Duplicate File Finder with Rust programming language 
 
