@@ -1,0 +1,4 @@
+
+
+rustc --emit=metadata dupFileFinder.rs
+
