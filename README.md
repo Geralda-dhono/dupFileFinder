@@ -1,4 +1,4 @@
-## Duplicate File Finder with Rust programming language 
+# Duplicate File Finder with Rust programming language 
 ![istockphoto-1132086617-612x612](https://github.com/user-attachments/assets/28c9f2ba-c9f7-4f64-b121-73b0933e35ae)
 
 Often times we all face a dreatful message: "Storage space running low". What we're prone to do is delete items such as documents, files, or pictures without even thinking what is taking up our space in memory. But what if we focus on a hidden reason:  duplivate files. 
