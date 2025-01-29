@@ -1,4 +1,10 @@
 theme: lanyon
 title: Duplicate File Finder
 description: Low memory space? We have the solution for you
-footer: This webpage is created and administrated by Geralda Dhono 
+footer: This webpage is created and administrated by Geralda Dhono
+
+baseurl: "" 
+url: "https://geralda-dhono.github.io/dupFileFinder/"
+
+author: Geralda Dhono
+email: geralda.dhono@stud.th-deg.de
